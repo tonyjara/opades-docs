@@ -10,3 +10,7 @@ Las anulaciones son la manera en la que se "elimina" alguna opración que afecte
 1- Ejecuciones sobre solicitudes de dinero.
 2- Desembolsos.
 3- Devoluciones de fondos.
+
+Cualquiera de estas acciones puede estar relacionada con multiples transacciones. A la hora de buscar estas acciones, solo se relaciona la última transacción asignada a la misma. Es decir, si la última transacción de alguna de estas acciones fue una anulación, entonces se considera la acción anulada.
+
+Obs: Las anulaciones son transacciones. Se pueden ver desde el historial de transacciones.
