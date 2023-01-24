@@ -5,12 +5,13 @@ sidebar_position: 3
 
 # Anulaciones
 
-Las anulaciones son la manera en la que se "elimina" alguna opración que afecte una cuenta que maneje dinero. Solo las ultimas operaciones hechas en una cuenta pueden ser eliminadas o editadas de manera a mantener el historial de operaciones en la misma lo más fiel posible. Esta es la razón por la que existen las anulaciones. Las mismas pueden realizarze sobre las siguientes acciones:
+Las anulaciones son la manera en la que se "elimina" alguna operación, esta acción revierte las transacciones relacionadas con la misma. Todas las operaciones que manejen un historial de transacciones deben anularse, ya que es importante mantener un historial fiel sobre las operaciones. Las operaciones que mantienen un historial de cambios son las siguientes:
 
 1- Ejecuciones sobre solicitudes de dinero.
-2- Desembolsos.
-3- Devoluciones de fondos.
+2- Ejeciciones sobre lineas presupuestarias.
+3- Desembolsos.
+4- Devoluciones de fondos.
 
-Cualquiera de estas acciones puede estar relacionada con multiples transacciones. A la hora de buscar estas acciones, solo se relaciona la última transacción asignada a la misma. Es decir, si la última transacción de alguna de estas acciones fue una anulación, entonces se considera la acción anulada.
+Las transacciones relacionadas con esas operaciones se diferencian entre si por la columna "Tipo" dentro de las transacciones.
 
 Obs: Las anulaciones son transacciones. Se pueden ver desde el historial de transacciones.
