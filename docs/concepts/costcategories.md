@@ -1,5 +1,5 @@
 ---
-slug: /cancelations
+slug: /costcategories
 sidebar_position: 4
 ---
 
