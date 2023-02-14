@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Opades Sys',
-  tagline: 'Sistema integral de asministracion de opades.',
+  title: 'OPADES docs',
+  tagline: 'Documentación de sistemas y procesos de OPADES.',
   url: 'https://sys.opades.org.py',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -36,8 +36,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/tonyjara/opades-docs',
         },
 
         theme: {
@@ -59,12 +58,18 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'concepts/projects',
+            docId: '/category/conceptos-jurumi',
             position: 'left',
             label: 'Conceptos',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'doc',
+            docId: '/category/tutoriales-jurumi',
+            position: 'left',
+            label: 'Tutoriales',
+          },
+          {
+            href: 'https://github.com/tonyjara/opades-docs',
             label: 'GitHub',
             position: 'right',
           },
