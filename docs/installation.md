@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+slug: '/install'
+---
+
 # Instalación
 
 Jurumi funciona completamente en la web, no hace falta descargar ningun archivo para poder usarlo y esta diseñado como para ser utilizado desde una computadora de escritorio como en un móbil.
