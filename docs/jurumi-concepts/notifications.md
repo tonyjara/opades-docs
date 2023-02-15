@@ -7,9 +7,9 @@ sidebar_position: 5
 
 Existen 3 maneras de enviar notificaciones a los usuarios:
 
-1- Via Slack
-2- Via navegador
-3- Via correo
+1. Via Slack
+2. Via navegador
+3. Via correo
 
 A continuación una tabla con las acciones que ejecutan notificaciones
 

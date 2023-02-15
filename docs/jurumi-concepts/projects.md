@@ -9,9 +9,9 @@ Los proyectos se encuentran por debajo de las organizaciones en la jerarquía de
 
 Los datos asignados a los proyectos sirven para proyectar los gastos de la organización, y saber cuanto dinero se encuentra disponible en la misma.
 
-## Features
+## Características
 
-Los features son las características o herramientas que nos provee el proyecto.
+Los características son las características o herramientas que nos provee el proyecto.
 
 ### 1- Etapas del proyecto
 
