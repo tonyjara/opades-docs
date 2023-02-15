@@ -7,7 +7,7 @@ sidebar_position: 2
 
 Los desembolsos en el caso específico del sistema de administración se refieren a la manera en la que la organización u organizaciones reciben fondos dentro de las cuentas bancarias o caja chica.
 
-## Features
+## Características
 
 ### 1- Conversión de monedas
 
