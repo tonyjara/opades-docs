@@ -34,7 +34,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/tonyjara/opades-docs',
+          editUrl: 'https://github.com/tonyjara/opades-docs/blob/master',
           routeBasePath: '/',
         },
         theme: {
