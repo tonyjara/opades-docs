@@ -81,11 +81,11 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/category/tutoriales-jurumi',
               },
               {
                 label: 'Conceptos',
-                to: '/docs/category/conceptos',
+                to: '/category/conceptos-jurumi',
               },
             ],
           },
