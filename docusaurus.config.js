@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OPADES docs',
   tagline: 'Documentación de sistemas y procesos de OPADES.',
-  url: 'https://sys.opades.org.py',
+  url: 'https://jurumi.opades.org.py',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -34,11 +34,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/tonyjara/opades-docs',
+          routeBasePath: '/',
         },
-
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -58,15 +56,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '/category/conceptos-jurumi',
-            position: 'left',
-            label: 'Conceptos',
-          },
-          {
-            type: 'doc',
             docId: '/category/tutoriales-jurumi',
             position: 'left',
             label: 'Tutoriales',
+          },
+          {
+            type: 'doc',
+            docId: '/category/conceptos-jurumi',
+            position: 'left',
+            label: 'Conceptos',
           },
           {
             href: 'https://github.com/tonyjara/opades-docs',
@@ -107,6 +105,12 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
       },
     }),
 };

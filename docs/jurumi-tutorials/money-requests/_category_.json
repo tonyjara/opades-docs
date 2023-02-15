@@ -1,0 +1,9 @@
+{
+  "label": "Solicitudes de fondos",
+  "position": 2,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Existen 3 tipos de solicitudes de fondos."
+  }
+}

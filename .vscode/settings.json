@@ -1,4 +1,5 @@
 {
   "window.title": "${activeEditorShort}${separator}${rootName} ${separator} [Branch: master]",
-  "cSpell.language": "en,es-ES"
+  "cSpell.language": "es-ES",
+  "cSpell.enabled": true
 }
