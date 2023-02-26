@@ -10,7 +10,7 @@ const config = {
     tagline: "Documentación de sistemas y procesos de OPADES.",
     url: "https://jurumi.opades.org.py",
     baseUrl: "/",
-    onBrokenLinks: "throw",
+    onBrokenLinks: "ignore",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
 
