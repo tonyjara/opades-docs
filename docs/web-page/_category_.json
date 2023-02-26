@@ -1,0 +1,8 @@
+{
+    "label": "Página Web",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Información sobre la web de OPADES."
+    }
+}
