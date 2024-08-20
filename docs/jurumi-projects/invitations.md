@@ -23,7 +23,7 @@ Administradores y moderadores no necesitan ser invitados a proyectos.
 
 **1-** Expandir el menú de organizacion, seleccionar la opción **Proyectos** y al estar dentro seleccionar la pestaña **Miembros** .
 
-![Miembros](./assets/miembros.png)
+![Miembros](/img/projects/miembros.png)
 
 **2-** Seleccionar el proyecto al que se quiere añadir al nuevo usuario.
 
@@ -31,13 +31,13 @@ Administradores y moderadores no necesitan ser invitados a proyectos.
 
 **4-** Presionar el botón de a la de añadir (ver imagen para referencia).
 
-![Add](./assets/add.png)
+![Add](/img/projects/add.png)
 
 :::info
 
 Observaciones: Para que el correo del usuario salga dentro de la lista, se debe escribir el correo completo. Si no aparece en la lista, favor verificar que este escrito correctamente.
 :::
 
-### Desvincular de un proyecto.
+### Desvincular de un proyecto
 
 Para revocar los permisos de un usuario dentro de un proyecto, seguimos los mismos pasos anteriores, con la excepción del último paso, donde en vez de ver un ícono de agregar, deberiamos ver el ícono de un basurero. Al presionar el botón, se desvincula al usuario del proyecto.
