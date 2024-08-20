@@ -38,6 +38,6 @@ Administradores y moderadores no necesitan ser invitados a proyectos.
 Observaciones: Para que el correo del usuario salga dentro de la lista, se debe escribir el correo completo. Si no aparece en la lista, favor verificar que este escrito correctamente.
 :::
 
-### Desvincular de un proyecto
+### Desvincular de un proyecto.
 
 Para revocar los permisos de un usuario dentro de un proyecto, seguimos los mismos pasos anteriores, con la excepción del último paso, donde en vez de ver un ícono de agregar, deberiamos ver el ícono de un basurero. Al presionar el botón, se desvincula al usuario del proyecto.
